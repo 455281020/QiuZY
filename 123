@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>任务简介</title>
+	</head>
+	<body>
+		<h1>人物简介</h1>
+		<p><strong>乔治·沃克·布什（George Walker Bush）</strong>，<em>(1946年7月6日出生于美国康涅狄格州)。</em>
+			于1995年-2000年间担任第46任的得克萨斯州州长。于2001年-2009年担任美国第43任（第54届-第55届）总统。
+			任内遭遇了2001年的9·11事件，他因此发动了一连串反恐战争。
+		</p>
+		<hr />
+		&copy;版权归邱中岳所有
+	</body>
+</html>

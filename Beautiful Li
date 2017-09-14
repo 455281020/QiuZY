@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<a href="Demo3.html" target="_blank">
+			<img src="/HTML/img/123.jpg" width="450"height="500" alt="美丽的李美丽"title="美丽的李美丽"> 
+		</a>
+		<p>
+		<a href="Demo3.html" target="_blank">美丽的李美丽</a>
+		</p>
+		
+			
+	</body>
+</html>
